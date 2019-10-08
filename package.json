@@ -1,0 +1,11 @@
+{
+  "name": "Go-Barber-Backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/julianosbarbosa/Go-Barber-Backend.git",
+  "author": "Juliano <julianotrabalho2016@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
