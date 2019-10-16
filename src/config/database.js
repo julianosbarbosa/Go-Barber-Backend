@@ -4,9 +4,10 @@ module.exports = {
   username: 'postgres',
   password: 'docker',
   database: 'gobarber',
+  operatorAliases: false,
   define: {
     timestamps: true,
     underscored: true,
-    underscoredAll: true,
-  },
-};
+    underscoredAll: true
+  }
+}
